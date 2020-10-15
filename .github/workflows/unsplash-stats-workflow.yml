@@ -25,7 +25,7 @@ jobs:
     - name: Updating repo
       uses: EndBug/add-and-commit@v5
       with:
-        add: './README.test.md'
+        add: './README.md'
         author_name: gabrieluizramos
         author_email: gabriel.luiz.ramos@gmail.com
         message: "README updated with Unsplash stats"
