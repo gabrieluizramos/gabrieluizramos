@@ -9,9 +9,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Installing dependencies
-      run: npm install
-
     # Collect and update markdown with Unsplash stats
     - name: Gathering Unsplash stats
       uses: gabrieluizramos/unsplash-stats-workflow@master
