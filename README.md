@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My current Unsplash Stats
+
+```markdown
+# Unsplash Stats
+<!-- UNSPLASH-STATS:START -->
+<!-- UNSPLASH-STATS:END -->
+```
