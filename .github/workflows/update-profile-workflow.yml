@@ -32,10 +32,9 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-
     - name: Updating blog posts
       uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: BLOG
-          feed_list: "https://gabrieluizramos.com.br/feed.xml"
+      with:
+        comment_tag_name: BLOG
+        feed_list: "https://gabrieluizramos.com.br/feed.xml"
 
