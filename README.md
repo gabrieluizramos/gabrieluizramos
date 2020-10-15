@@ -10,6 +10,11 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 
 ### You can also read some of my latest posts <small>(written in portuguese)</small>
 <!-- BLOG:START -->
+- [Maneiras incomuns de instalar um pacote NPM](https://gabrieluizramos.com.br/maneiras-incomuns-de-instalar-um-pacote-npm)
+- [Relembrando operadores em JavaScript](https://gabrieluizramos.com.br/relembrando-operadores-em-javascript)
+- [Módulos em JavaScript](https://gabrieluizramos.com.br/modulos-em-javascript)
+- [Open source e Inner source](https://gabrieluizramos.com.br/open-source-e-inner-source)
+- [Analisando trade-offs](https://gabrieluizramos.com.br/analisando-trade-offs)
 <!-- BLOG:END -->
 
 #### I like to check my Unsplash stats from time to time
