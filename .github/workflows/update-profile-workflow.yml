@@ -1,4 +1,7 @@
-on: [push]
+on:
+  push:
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
   unsplash_stats_job:
@@ -28,4 +31,11 @@ jobs:
         message: "README updated with Unsplash stats"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+    - name: Updating blog posts
+      uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOG
+          feed_list: "https://gabrieluizramos.com.br/feed.xml"
 
