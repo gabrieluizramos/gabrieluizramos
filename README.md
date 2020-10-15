@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 ### My current Unsplash Stats
 
-```markdown
+
 # Unsplash Stats
 <!-- UNSPLASH-STATS:START -->
 - Downloads: 68220
 - Views: 14871680
 <!-- UNSPLASH-STATS:END -->
-```
