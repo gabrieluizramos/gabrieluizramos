@@ -16,10 +16,10 @@ jobs:
     - name: Gathering Unsplash stats
       uses: gabrieluizramos/unsplash-stats-workflow@master
       with:
-        file: './README.md'
         username: gabrieluizramos
         ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
         SECRET_KEY: ${{ secrets.SECRET_KEY }}
+        template: table
     
     # Commit/Push to your repo after changing
     - name: Updating repo
