@@ -24,7 +24,7 @@ And if you're also curious about it, they're listed below.
 <!-- UNSPLASH-STATS:START -->
 | **Views**         | **Downloads**        |
 |:-----------------:|:--------------------:|
-|14,882,611   | 68,305 |
+|14,883,780   | 68,314 |
 <!-- UNSPLASH-STATS:END -->
 
 If you have a Unsplash account and would like to add some stats to your profile, you can check the Github Action I've made called [unsplash-stats-workflow](https://github.com/gabrieluizramos/unsplash-stats-workflow) and serve yourself!
