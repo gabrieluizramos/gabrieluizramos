@@ -8,7 +8,7 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 💼 [LinkedIn](https://www.linkedin.com/in/gabrieluizramos/) <br>
 🖌 [CodePen](https://codepen.io/gabrieluizramos/) <br>
 
-### You can also read some of my latest posts <small>(written in portuguese)</small>
+### You can also read some of my latest posts <sub><sup>(written in portuguese)</sup></sub>
 <!-- BLOG:START -->
 - [Maneiras incomuns de instalar um pacote NPM](https://gabrieluizramos.com.br/maneiras-incomuns-de-instalar-um-pacote-npm)
 - [Relembrando operadores em JavaScript](https://gabrieluizramos.com.br/relembrando-operadores-em-javascript)
@@ -17,7 +17,9 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 - [Analisando trade-offs](https://gabrieluizramos.com.br/analisando-trade-offs)
 <!-- BLOG:END -->
 
-#### I like to check my Unsplash stats from time to time
+---
+
+#### I check my Unsplash stats from time to time 📊
 And if you're also curious about it, they're listed below.
 <!-- UNSPLASH-STATS:START -->
 - Views: 14871680
