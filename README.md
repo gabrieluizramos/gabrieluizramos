@@ -2,7 +2,7 @@
 I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao Paulo.
 
 ### You can check my social accounts
-🖥 [Site](http://gabrieluizramos.com.br/) <br>
+🌎 [Site](http://gabrieluizramos.com.br/) <br>
 🐦 [Twitter](https://twitter.com/gabrieluizramos) <br>
 📸 [Instagram](https://www.instagram.com/gabrieluizramos/) and [Unsplash](https://unsplash.com/@gabrieluizramos) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/gabrieluizramos/) <br>
@@ -19,7 +19,7 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 
 ---
 
-#### 📊 I check my Unsplash stats from time to time 
+#### I check my Unsplash stats from time to time 📊
 And if you're also curious about it, they're listed below.
 <!-- UNSPLASH-STATS:START -->
 - **Views**: 14,880,921
