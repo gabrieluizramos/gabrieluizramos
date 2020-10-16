@@ -27,6 +27,8 @@ jobs:
       with:
         add: './README.md'
         message: "README updated with Unsplash stats"
+        author_name: gabrieluizramos-bot
+        author_email: gabriel.luiz.ramos+bot@gmail.com
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
