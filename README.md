@@ -22,8 +22,8 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 #### I check my Unsplash stats from time to time 📊
 And if you're also curious about it, they're listed below.
 <!-- UNSPLASH-STATS:START -->
-- **Views**: 14,875,873
-- **Downloads**: 68,258
+- **Views**: 14,877,329
+- **Downloads**: 68,265
 <!-- UNSPLASH-STATS:END -->
 
 If you have a Unsplash account and would like to add some stats to your profile, you can check the Github Action I've made called [unsplash-stats-workflow](https://github.com/gabrieluizramos/unsplash-stats-workflow) and serve yourself!
