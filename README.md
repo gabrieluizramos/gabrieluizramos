@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel Ramos 👋
+### Hi there, I'm Gabriel 👋
 I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao Paulo.
 
 ### You can check my social accounts
