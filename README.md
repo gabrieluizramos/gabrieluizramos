@@ -10,11 +10,11 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 
 ### 📖 You can also read some of my latest posts <sub><sup>(written in portuguese)</sup></sub>
 <!-- BLOG:START -->
+- [A banalização do ensino de tecnologia](https://gabrieluizramos.com.br/a-banalizacao-do-ensino-de-tecnologia)
 - [Versionamento e estrutura de dados](https://gabrieluizramos.com.br/versionamento-e-estrutura-de-dados)
 - [Balanceamento de carga](https://gabrieluizramos.com.br/balanceamento-de-carga)
 - [Inversão de controle](https://gabrieluizramos.com.br/inversao-de-controle)
 - [CLT, PJ e o Trabalho Remoto](https://gabrieluizramos.com.br/clt-pj-e-o-trabalho-remoto)
-- [Depuração de aplicações JavaScript](https://gabrieluizramos.com.br/depuracao-de-aplicacoes-javascript)
 <!-- BLOG:END -->
 
 ---
