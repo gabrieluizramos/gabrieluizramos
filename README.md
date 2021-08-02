@@ -1,14 +1,14 @@
 ### Hi there, I'm Gabriel 👋
 I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao Paulo.
 
-### You can check my social accounts
+### Here you can check my social accounts 👤
 🌎 [Site](http://gabrieluizramos.com.br/) <br>
 🐦 [Twitter](https://twitter.com/gabrieluizramos) <br>
 📸 [Instagram](https://www.instagram.com/gabrieluizramos/) and [Unsplash](https://unsplash.com/@gabrieluizramos) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/gabrieluizramos/) <br>
 🖌 [CodePen](https://codepen.io/gabrieluizramos/) <br>
 
-### 📖 You can also read some of my latest posts <sub><sup>(written in portuguese)</sup></sub>
+### Maybe read some of my latest blog posts <sub><sup>(written in portuguese)</sup></sub> 📰
 <!-- BLOG:START -->
 - [A banalização do ensino de tecnologia](https://gabrieluizramos.com.br/a-banalizacao-do-ensino-de-tecnologia)
 - [Versionamento e estrutura de dados](https://gabrieluizramos.com.br/versionamento-e-estrutura-de-dados)
@@ -16,6 +16,9 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 - [Inversão de controle](https://gabrieluizramos.com.br/inversao-de-controle)
 - [CLT, PJ e o Trabalho Remoto](https://gabrieluizramos.com.br/clt-pj-e-o-trabalho-remoto)
 <!-- BLOG:END -->
+
+### Or even take a glance at the book I'm writing 📖
+Called [JavaScript Assertivo](http://javascriptassertivo.com.br/) <sub><sup>(also in portuguese)</sup></sub> it's a book about several types of testing using only JavaScript. All of its code is open-source, so feel free to check out its [repository](https://github.com/gabrieluizramos/javascriptassertivo.com.br).
 
 ---
 
@@ -27,4 +30,4 @@ And if you're also curious about it, they're listed below.
 |19,153,317   | 89,827 |
 <!-- UNSPLASH-STATS:END -->
 
-If you have a Unsplash account and would like to add some stats to your profile, you can check the Github Action I've made called [unsplash-stats-workflow](https://github.com/gabrieluizramos/unsplash-stats-workflow) and serve yourself!
+If you have an Unsplash account and would like to add some stats to your profile, you can check the Github Action I've made called [unsplash-stats-workflow](https://github.com/gabrieluizramos/unsplash-stats-workflow) and serve yourself!
