@@ -8,7 +8,7 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 💼 [LinkedIn](https://www.linkedin.com/in/gabrieluizramos/) <br>
 🖌 [CodePen](https://codepen.io/gabrieluizramos/) <br>
 
-### Maybe read some of my latest blog posts <sub><sup>(written in portuguese)</sup></sub> 📰
+### Maybe read some of my latest blog posts 📰 <sub><sup>(written in portuguese)</sup></sub>
 <!-- BLOG:START -->
 - [A banalização do ensino de tecnologia](https://gabrieluizramos.com.br/a-banalizacao-do-ensino-de-tecnologia)
 - [Versionamento e estrutura de dados](https://gabrieluizramos.com.br/versionamento-e-estrutura-de-dados)
@@ -17,8 +17,8 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 - [CLT, PJ e o Trabalho Remoto](https://gabrieluizramos.com.br/clt-pj-e-o-trabalho-remoto)
 <!-- BLOG:END -->
 
-### Or even take a glance at the book I'm writing 📖
-Called [JavaScript Assertivo](http://javascriptassertivo.com.br/) <sub><sup>(also in portuguese)</sup></sub> it's a book about several types of testing using only JavaScript. All of its code is open-source, so feel free to check out its [repository](https://github.com/gabrieluizramos/javascriptassertivo.com.br).
+### Or even take a glance at the book I'm writing 📖 <sub><sup>(also in portuguese)</sup></sub>
+Called [JavaScript Assertivo](http://javascriptassertivo.com.br/) it's a book about several types of testing using only JavaScript. All of its code is open-source, so feel free to check out its [repository](https://github.com/gabrieluizramos/javascriptassertivo.com.br).
 
 ---
 
