@@ -10,11 +10,11 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 
 ### Maybe read some of my latest blog posts 📰 <sub><sup>(written in portuguese)</sup></sub>
 <!-- BLOG:START -->
+- [Arquitetura além da estrutura de pastas](https://gabrieluizramos.com.br/arquitetura-alem-da-estrutura-de-pastas)
 - [Autenticação, autorização e gerenciamento de identidade e acesso](https://gabrieluizramos.com.br/autenticacao-autorizacao-e-gerenciamento-de-identidade-e-acesso)
 - [Coletânea JesTip](https://gabrieluizramos.com.br/coletanea-jestip)
 - [Chegou a hora da revisão](https://gabrieluizramos.com.br/chegou-a-hora-da-revisao)
 - [A banalização do ensino de tecnologia](https://gabrieluizramos.com.br/a-banalizacao-do-ensino-de-tecnologia)
-- [Versionamento e estrutura de dados](https://gabrieluizramos.com.br/versionamento-e-estrutura-de-dados)
 <!-- BLOG:END -->
 
 ### Or even take a glance at the book I'm writing 📖 <sub><sup>(also in portuguese)</sup></sub>
