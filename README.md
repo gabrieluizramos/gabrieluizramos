@@ -17,8 +17,22 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 - [A banalização do ensino de tecnologia](https://gabrieluizramos.com.br/a-banalizacao-do-ensino-de-tecnologia)
 <!-- BLOG:END -->
 
-### Or even take a glance at the book I'm writing 📖 <sub><sup>(also in portuguese)</sup></sub>
-Called [JavaScript Assertivo](http://javascriptassertivo.com.br/) it's a book about several types of testing using only JavaScript. All of its code is open-source, so feel free to check out its [repository](https://github.com/gabrieluizramos/javascriptassertivo.com.br).
+### Or even take a glance on the book I wrote 📖 <sub><sup>(also in portuguese)</sup></sub>
+<table>
+  <tr>
+    <td>
+      <a href="https://javascriptassertivo.com.br/" target="_blank"><img src="https://github.com/gabrieluizramos/javascript-assertivo/raw/master/website/src/images/cover.png" width="300px" /></a>
+    </td>
+    <td>
+      <p>
+       Called JavaScript Assertivo (<i>"Assertive JavaScript"</i>) it's a book about several types of testing using only JavaScript and all of its code is open-source.
+      </p>
+      <p>
+        Feel free to check its <a href="https://javascriptassertivo.com.br/" target="_blank">website</a> or the <a href="https://github.com/gabrieluizramos/">repository</a> with all the projects.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
