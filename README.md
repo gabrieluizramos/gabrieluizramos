@@ -21,15 +21,15 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
 <table>
   <tr>
     <td>
-      <a href="https://javascriptassertivo.com.br/" target="_blank"><img src="https://github.com/gabrieluizramos/javascript-assertivo/raw/master/website/src/images/cover.png" width="300px" /></a>
-    </td>
-    <td>
       <p>
        Called JavaScript Assertivo (<i>"Assertive JavaScript"</i>) it's a book about several types of testing using only JavaScript and all of its code is open-source.
       </p>
       <p>
         Feel free to check its <a href="https://javascriptassertivo.com.br/" target="_blank">website</a> or the <a href="https://github.com/gabrieluizramos/">repository</a> with all the projects.
       </p>
+    </td>
+    <td>
+      <a href="https://javascriptassertivo.com.br/" target="_blank"><img src="https://github.com/gabrieluizramos/javascript-assertivo/raw/master/website/src/images/cover.png" width="300px" /></a>
     </td>
   </tr>
 </table>
