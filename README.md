@@ -25,7 +25,7 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sao
        Called JavaScript Assertivo (<i>"Assertive JavaScript"</i>) it's a book about several types of testing using only JavaScript and all of its code is open-source.
       </p>
       <p>
-        Feel free to check its <a href="https://javascriptassertivo.com.br/" target="_blank">website</a> or the <a href="https://github.com/gabrieluizramos/">repository</a> with all the projects.
+        Feel free to check its <a href="https://javascriptassertivo.com.br/" target="_blank">website</a> or the <a href="https://github.com/gabrieluizramos/javascript-assertivo">repository</a> with all the projects.
       </p>
     </td>
     <td>
