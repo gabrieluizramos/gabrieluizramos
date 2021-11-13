@@ -9,11 +9,11 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sã
 
 ### Maybe read some of my latest blog posts 📰 <sub><sup>(written in portuguese)</sup></sub>
 <!-- BLOG:START -->
+- [Debounce e Throttle](https://gabrieluizramos.com.br/debounce-e-throttle)
 - [Afinal de contas, o que é senioridade?](https://gabrieluizramos.com.br/afinal-de-contas-o-que-e-senioridade)
 - [Por trás das páginas: JavaScript Assertivo](https://gabrieluizramos.com.br/por-tras-das-paginas-do-javascript-assertivo)
 - [Arquitetura além da estrutura de pastas](https://gabrieluizramos.com.br/arquitetura-alem-da-estrutura-de-pastas)
 - [Autenticação, autorização e gerenciamento de identidade e acesso](https://gabrieluizramos.com.br/autenticacao-autorizacao-e-gerenciamento-de-identidade-e-acesso)
-- [Coletânea JesTip](https://gabrieluizramos.com.br/coletanea-jestip)
 <!-- BLOG:END -->
 
 ### Or even check the book I wrote 📖 <sub><sup>(also in portuguese)</sup></sub>
