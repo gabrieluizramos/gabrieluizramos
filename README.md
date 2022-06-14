@@ -9,11 +9,11 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sã
 
 ### Maybe read some of my latest blog posts 📰 <sub><sup>(written in portuguese)</sup></sub>
 <!-- BLOG:START -->
+- [O que é e como funciona um Proxy?](https://gabrieluizramos.com.br/o-que-e-e-como-funciona-um-proxy)
 - [Dicas de segurança para todos os tipos de usuário](https://gabrieluizramos.com.br/dicas-de-seguranca-para-todos-os-tipos-de-usuario)
 - [Variáveis de ambiente e ciclo de desenvolvimento](https://gabrieluizramos.com.br/variaveis-de-ambiente-e-ciclo-de-desenvolvimento)
 - [Diferenças de perspectiva após a mudança de área](https://gabrieluizramos.com.br/diferencas-de-perspectiva-apos-a-mudanca-de-area)
 - [É importante ter um portfólio em tecnologia?](https://gabrieluizramos.com.br/e-importante-ter-um-portfolio-em-tecnologia)
-- [Debounce e Throttle](https://gabrieluizramos.com.br/debounce-e-throttle)
 <!-- BLOG:END -->
 
 ### Or even check the book I wrote 📖 <sub><sup>(also in portuguese)</sup></sub>
