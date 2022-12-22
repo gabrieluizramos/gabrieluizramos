@@ -4,8 +4,7 @@ I'm a Brazilian 🇧🇷 software engineer, born in Santos 🛹 and based in Sã
 ### Here you can check some of my social accounts 👤
 🌎 [Site](http://gabrieluizramos.com.br/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/gabrieluizramos/) <br>
-🐦 [Twitter](https://twitter.com/gabrieluizramos) <br>
-📸 [Instagram](https://www.instagram.com/gabrieluizramos/) and [Unsplash](https://unsplash.com/@gabrieluizramos) <br>
+📸 [Instagram](https://www.instagram.com/gabrieluizramos/), [Unsplash](https://unsplash.com/@gabrieluizramos) or my [photography portfolio](https://fotografia.gabrieluizramos.com.br/)<br>
 
 ### Maybe read some of my latest blog posts 📰 <sub><sup>(written in portuguese)</sup></sub>
 <!-- BLOG:START -->
